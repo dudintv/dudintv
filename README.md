@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi 👋 my name is Dmitry Dudin and I'm creative fullstack developer.
+
+My main stack is Ruby on Rails and Vue.js.
 
 <!--
 **dudintv/dudintv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
