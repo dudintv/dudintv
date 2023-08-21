@@ -1,6 +1,6 @@
-Hi 👋 my name is Dmitry Dudin and I'm creative fullstack developer.
+Hi 👋 my name is Dmitry Dudin and I'm a creative frontend developer.
 
-My main stack is Ruby on Rails and Vue.js.
+My main stack is Vue 3 and Nuxt 3. Former a fullstack developer based on Ruby on Rails.
 
 <!--
 **dudintv/dudintv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
